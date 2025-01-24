@@ -16,7 +16,7 @@ This repository is designed to help you learn full-stack web development step by
 
 ---
 
-## Introduction ✨
+## Introduction 
 Web development is an exciting field that combines creativity 🎨 and technical skills 🛠️. This guide is designed to help you become a full-stack web developer, capable of building responsive and interactive web applications.
 
 Whether you're a beginner 🐣 or someone looking to deepen your skills 📈, this repository will provide structured lessons and hands-on exercises to help you along the way.
