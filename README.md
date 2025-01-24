@@ -75,12 +75,12 @@ This repository follows a step-by-step approach, starting with the basics and pr
 
 ---
 
-## Contributing 🤝
+## Contributing 
 Contributions are welcome! If you have suggestions, improvements, or additional resources, feel free to open an issue or submit a pull request.  
 
 ---
 
-## License 📜
+## License 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
 
 ---
