@@ -23,7 +23,7 @@ Whether you're a beginner 🐣 or someone looking to deepen your skills 📈, th
 
 ---
 
-## Technologies Covered 🛠️
+## Technologies Covered 
 The lessons in this repository will cover the following technologies:
 
 - **HTML** 📝: The standard markup language used for creating web pages.  
@@ -37,7 +37,7 @@ The lessons in this repository will cover the following technologies:
 
 ---
 
-## Repository Structure 📂
+## Repository Structure 
 
 Each topic in this repository is organized into folders based on the following structure:
 
@@ -53,7 +53,7 @@ For **HTML > Introduction to HTML > Heading Element**, the folder contains:
 
 ---
 
-## Learning Path 🗺️
+## Learning Path 
 This repository follows a step-by-step approach, starting with the basics and progressing to advanced topics:
 
 1. **HTML Basics** 📝: Structure your web pages.  
@@ -67,7 +67,7 @@ This repository follows a step-by-step approach, starting with the basics and pr
 
 ---
 
-## How to Use This Repository 🧑‍🏫
+## How to Use This Repository 
 - Navigate through the folders to access lessons and exercises for each topic.  
 - Start with the basics and progress through the lessons in the recommended order.  
 - Follow the instructions in each lesson to complete exercises and projects.  
